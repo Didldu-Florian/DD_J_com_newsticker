@@ -14,7 +14,7 @@
     >
 
         <field name="rules" type="rules"
-               component="com_dd_socialshare"
+               component="com_dd_newsticker"
                filter="rules"
                validate="rules"
                label="JCONFIG_PERMISSIONS_LABEL"
